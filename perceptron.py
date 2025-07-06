@@ -80,7 +80,6 @@ plt.ylabel('Número de Errores')
 plt.grid(True)
 plt.show()
 
-|
 if num_entradas == 2:                # 9. Gráfica de la recta de decisión (solo para 2D)
     plt.figure(figsize=(8, 6))
     
